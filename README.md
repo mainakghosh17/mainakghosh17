@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mainak Ghosh</h1>
 <h3 align="center">A fresh CS graduate with a passion for data-driven insights. I specialize in Machine Learning, Deep Learning, Python, SQL, and data visualization tools.</h3>
 
-- 📫 How to reach me **mainakghosh232@gmail.com**
+- 📫 You can reach me out at **mainakghosh232@gmail.com**
 
 - 📄 Know about my experiences [Here](https://drive.google.com/file/d/1k1W-3buCVS_BW2VOsLlmeEvooOMyGh2r/view?usp=drive_link)
 
