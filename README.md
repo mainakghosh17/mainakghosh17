@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **mainakghosh232@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1k1W-3buCVS_BW2VOsLlmeEvooOMyGh2r/view?usp=drive_link](https://drive.google.com/file/d/1k1W-3buCVS_BW2VOsLlmeEvooOMyGh2r/view?usp=drive_link)
+- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1k1W-3buCVS_BW2VOsLlmeEvooOMyGh2r/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
