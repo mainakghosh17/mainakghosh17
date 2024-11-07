@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="left">Hello World  👋, I'm Mainak Ghosh</h1>
 <h3 align="left">As a Computer Science graduate with a passion for data-driven insights, I specialize in Machine Learning, Deep Learning, Python, SQL, and data visualization. My strong foundation in Data Structures and Algorithms enables me to tackle complex challenges efficiently. With certifications in digital marketing, sales, and negotiations, I bridge technical skills with strategic thinking.
 
